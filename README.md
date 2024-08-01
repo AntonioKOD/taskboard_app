@@ -23,5 +23,5 @@ Task Board in a Kanban-style task management web application that allows users t
 - Day.js for date handling 
 
 
-![Screenshot of Application](/assets/images/Screenshot 2024-07-31 at 9.25.51 PM.png)
+![Screenshot of Application] (/assets/images/Screenshot 2024-07-31 at 9.25.51 PM.png)
 
