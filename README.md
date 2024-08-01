@@ -23,5 +23,5 @@ Task Board in a Kanban-style task management web application that allows users t
 - Day.js for date handling 
 
 
-![Screenshot] (assets/images/image.png)
+![Screenshot](assets/images/image.png)
 
