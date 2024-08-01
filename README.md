@@ -22,6 +22,6 @@ Task Board in a Kanban-style task management web application that allows users t
 - Javascript (Jquery)
 - Day.js for date handling 
 
-
+[Link](https://antoniokod.github.io/taskboard_app/)
 ![Screenshot](assets/images/image.png)
 
